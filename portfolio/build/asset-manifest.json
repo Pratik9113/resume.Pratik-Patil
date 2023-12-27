@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1a31d60.css",
+    "main.js": "/static/js/main.1e1776fa.js",
+    "static/js/787.a63b685a.chunk.js": "/static/js/787.a63b685a.chunk.js",
+    "static/media/pratik.png": "/static/media/pratik.517592998d9c5cd5cf97.png",
+    "index.html": "/index.html",
+    "main.b1a31d60.css.map": "/static/css/main.b1a31d60.css.map",
+    "main.1e1776fa.js.map": "/static/js/main.1e1776fa.js.map",
+    "787.a63b685a.chunk.js.map": "/static/js/787.a63b685a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a31d60.css",
+    "static/js/main.1e1776fa.js"
+  ]
+}
